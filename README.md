@@ -1,5 +1,5 @@
 # eightynine
-## A monospace, stroked, inline SVG typeface.
+### A monospace, stroked, inline SVG typeface.
 
 Unlike traditional typefaces, Eightynine is a collection of unfilled vector paths. The font weight is determined by the width of the stroke, and each character can be freely transformed without the stroke being affected.
 
