@@ -73,5 +73,5 @@ a {
 
 @keyframes strokechange {
     from { stroke-width: 1px; }
-    to { stroke-width: 4px; }
+    to { stroke-width: 8px; }
 }
